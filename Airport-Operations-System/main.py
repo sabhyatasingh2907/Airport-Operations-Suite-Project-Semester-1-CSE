@@ -1,4 +1,4 @@
-"Entry point and session controller for Airport Management System."
+"Entry point and session controller for Airport Operation System."
 import sys
 from core import Authenticator, AirportManager
 def main():
