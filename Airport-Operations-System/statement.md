@@ -2,7 +2,7 @@
 
 ### 5. `statement.md`
 ```markdown
-# Project Statement: Airport Management System (AMS)
+# Project Statement: Airport Operation System (AOS)
 
 ## Problem Statement
 Small-to-midsize flight hubs and simulated dispatch training setups frequently need a simple, low-overhead way to manage operational records without relying on bloated enterprise software or database servers. Manual spreadsheets result in data inconsistency and accidental overrides. This project provides a centralized, authenticated CLI solution for structured data management.
