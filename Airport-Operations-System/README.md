@@ -1,4 +1,4 @@
-# Airport Management System (AMS)
+# Airport Operations System (AOS)
 
 ## Overview
 A lightweight Command-Line Interface (CLI) application in Python designed to track and manage airport logistics across four key operational areas: Airlines, Flights, Passengers, and Staff.
